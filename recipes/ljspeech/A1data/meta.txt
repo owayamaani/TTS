@@ -1,0 +1,50 @@
+A1-0001|Aadhar, Aadab, Abhinandan, Abhaar. I am Varun Dhawan, 2.0|Aadhar, Aadab, Abhinandan, Abhaar. I am Varun Dhawan, 2.0
+A1-0002|And I am glad to welcome you to Maruti Suzuki's Who Will Be Kar Gyani Day 2. Like yesterday, we are going to have a |And I am glad to welcome you to Maruti Suzuki's Who Will Be Kar Gyani Day 2. Like yesterday, we are going to have a 
+A1-0003|quick round of questions and answers that will put your automotive knowledge to test.As the saying goes,|quick round of questions and answers that will put your automotive knowledge to test.As the saying goes,
+A1-0004|when the going gets tough, the tough get going. And by the end of this quiz we will determine who is the true bachha of gyan|when the going gets tough, the tough get going. And by the end of this quiz we will determine who is the true bachha of gyan
+A1-0005|when it comes to the automotive industry.churu karne se pehle, let me explain simple rules|when it comes to the automotive industry.churu karne se pehle, let me explain simple rules
+A1-0006|Make sure you are logged into the app. You will have 10 questions to answer each with 4 options.|Make sure you are logged into the app. You will have 10 questions to answer each with 4 options.
+A1-0007|You will have 25 seconds to answer each question. Submit your answer within the time limit to proceed.|You will have 25 seconds to answer each question. Submit your answer within the time limit to proceed.
+A1-0008|Remember, not submitted and unanswered questions won't count. Your score will be calculated based on both|Remember, not submitted and unanswered questions won't count. Your score will be calculated based on both
+A1-0009|accuracy and speed.Given your expertise in sales and marketing, I'm confident that this quiz will be a|accuracy and speed.Given your expertise in sales and marketing, I'm confident that this quiz will be a
+A1-0010|ake-walk for you - or should I say, a car-walk!We will be displaying a live leader board|ake-walk for you - or should I say, a car-walk!We will be displaying a live leader board
+A1-0011|to make this competition more interesting. So, let’s begin! Your first question is,In which year|to make this competition more interesting. So, let’s begin! Your first question is,In which year
+A1-0012|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'? I repeat. In which year|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'? I repeat. In which year
+A1-0013|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'?Your options are: a.|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'?Your options are: a.
+A1-0014|two thousand and sixteen b. two thousand and seventeen c. two thousand and fourteen|two thousand and sixteen b. two thousand and seventeen c. two thousand and fourteen
+A1-0015|and d. two thousand and fifteen. I guess you got this. Hurry up|and d. two thousand and fifteen. I guess you got this. Hurry up
+A1-0016|only five seconds left. Times up. I’m sure you guys must have got this right.|only five seconds left. Times up. I’m sure you guys must have got this right.
+A1-0017|The correct answer is, Option D twenty fifteen. Let’s quickly look at our leader board.|The correct answer is, Option D twenty fifteen. Let’s quickly look at our leader board.
+A1-0018|Wohooo!! Congrats guys. Keep up the spirit. To those who have yet to climb the leader board, you still|Wohooo!! Congrats guys. Keep up the spirit. To those who have yet to climb the leader board, you still
+A1-0019|still have nine questions to make a comeback. Moving on to the next question.|still have nine questions to make a comeback. Moving on to the next question.
+A1-0020|This one's right up your alley. Which of these tag lines was part of was part of a famous ad campaign by Maruti suzuki?|This one's right up your alley. Which of these tag lines was part of was part of a famous ad campaign by Maruti suzuki?
+A1-0021|I repeat, Which of these tag lines was part of was part of a famous ad campaign by Maruti suzuki?|I repeat, Which of these tag lines was part of was part of a famous ad campaign by Maruti suzuki?
+A1-0022|Your options are a. kitna piti he b. kitna didi he c.|Your options are a. kitna piti he b. kitna didi he c.
+A1-0023|more car per car d. unlike any other.It can't get any easier than this.|more car per car d. unlike any other.It can't get any easier than this.
+A1-0024|last five seconds left guys. and time's up. Hopefully you got this one right|last five seconds left guys. and time's up. Hopefully you got this one right
+A1-0025|The right answer is option B, that was easy, wasn't it? But don't get too comfortable we are just getting started.|The right answer is option B, that was easy, wasn't it? But don't get too comfortable we are just getting started.
+A1-0026| Brace yourself for more challenges to come. Your next question is here:|Your next question is here:
+A1-0027|what is the full form of the regulatory compliance CAFÉ?I mean, What is the full form|what is the full form of the regulatory compliance CAFÉ?I mean, What is the full form
+A1-0028|of the regulatory compliance CAFÉ? Let’s look at the options:|of the regulatory compliance CAFÉ? Let’s look at the options:
+A1-0029|a. Corporate Average Fuel Economy. b. Combined Average Fuel Efficiency |a. Corporate Average Fuel Economy. b. Combined Average Fuel Efficiency
+A1-0030|c. Corporate Annual Fuel Economy d. Corporate Annual Fuel Efficiency.|c. Corporate Annual Fuel Economy d. Corporate Annual Fuel Efficiency.
+A1-0031|Your time starts now! And times up. I hope you logged your answers!|Your time starts now! And times up. I hope you logged your answers!
+A1-0032|Hear the enthusiast in you clapping? We surely do. Option A, Corporate Average Fuel Economy,|Hear the enthusiast in you clapping? We surely do. Option A, Corporate Average Fuel Economy,
+A1-0033|is the right answer. Your next question is a real brain-teaser. Here it is!|is the right answer. Your next question is a real brain-teaser. Here it is!
+A1-0034|What is the name of the state of the art automotive testing and certification centre created by Ministry of Heavy Industries|What is the name of the state of the art automotive testing and certification centre created by Ministry of Heavy Industries
+A1-0035|in Dhar District, Madhya Pradesh? Let me say it again. What is the name of the state of the art automotive|in Dhar District, Madhya Pradesh? Let me say it again. What is the name of the state of the art automotive
+A1-0036|testing and certification centre created by Ministry of Heavy Industries in Dhar District, Madhya Pradesh?|testing and certification centre created by Ministry of Heavy Industries in Dhar District, Madhya Pradesh?
+A1-0037|Uff, this is tricky. Let’s check out the options: a. AMTRAK A-M-T-R-A-K. |Uff, this is tricky. Let’s check out the options: a. AMTRAK A-M-T-R-A-K. 
+A1-0038|b. NATRAX N-A-T-R-A-X. c. I D T R and d.|b. NATRAX N-A-T-R-A-X. c. I D T R and d.
+A1-0039|PATRAX P-A-T-R-A-X. Mark your answers quickly.|PATRAX P-A-T-R-A-X. Mark your answers quickly.
+A1-0040|five four three two one. Phone's Down!|five four three two one. Phone's Down!
+A1-0041|Let’s look at the answer. The correct answer is option B NATRAX.|Let’s look at the answer. The correct answer is option B NATRAX.
+A1-0042|Let’s quickly take a glance at the leader board to see who’s currently on top. That’s amazing!!|Let’s quickly take a glance at the leader board to see who’s currently on top. That’s amazing!!
+A1-0043|Kudos to you for it this far!!Let's get moving with the next question: |Kudos to you for it this far!!Let's get moving with the next question: 
+A1-0044|Who was Maruti Udyog Limited's first Managing Director in nineteen eighty one|Who was Maruti Udyog Limited's first Managing Director in nineteen eighty one
+A1-0045|soon after the formation of the company? I repeat. Who was Maruti Udyog Limited's first|soon after the formation of the company? I repeat. Who was Maruti Udyog Limited's first
+A1-0046|Managing Director in nineteen eighty one soon after the formation of the company? Your options are:|Managing Director in nineteen eighty one soon after the formation of the company? Your options are:
+A1-0047|a. O Suzuki b. Jagdish Khattar c.|a. O Suzuki b. Jagdish Khattar c.
+A1-0048|R C Bhargava or d. Dr V Krishnamurthy.|R C Bhargava or d. Dr V Krishnamurthy.
+A1-0049|The clock is ticking, so let’s get started. Mark your answers quickly.|The clock is ticking, so let’s get started. Mark your answers quickly.
+A1-0050|That's it, time's up! Did you manage to get your answer in? I hope so|That's it, time's up! Did you manage to get your answer in? I hope so
