@@ -35,7 +35,7 @@ def split_dataset(items, eval_split_max_size=None, eval_split_size=0.01):
             eval_split_size = int(len(items) * eval_split_size)
 
     assert (
-        eval_split_size > 0
+        eval_split_size == 0
     ), " [!] You do not have enough samples for the evaluation set. You can work around this setting the 'eval_split_size' parameter to a minimum of {}".format(
         1 / len(items)
     )
