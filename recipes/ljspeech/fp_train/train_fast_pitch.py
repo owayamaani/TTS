@@ -18,9 +18,9 @@ use_cuda: bool = True
 # init configs
 dataset_config = BaseDatasetConfig(
     formatter="ljspeech",
-    #meta_file_train="meta.csv",
+    meta_file_train="meta.csv",
     # meta_file_attn_mask=os.path.join(output_path, "../LJSpeech-1.1/metadata_attn_mask.txt"),
-    path=os.path.join(output_path, "../A1/"),
+    path=os.path.join(output_path, "/home/ubuntu/tts_research/coqui/TTS/recipes/ljspeech/A1data"),
 )
 
 audio_config = BaseAudioConfig(
