@@ -7,7 +7,7 @@ A1-0006|Make sure you are logged into the app. You will have 10 questions to ans
 A1-0007|You will have 25 seconds to answer each question. Submit your answer within the time limit to proceed.|You will have 25 seconds to answer each question. Submit your answer within the time limit to proceed.
 A1-0008|Remember, not submitted and unanswered questions won't count. Your score will be calculated based on both|Remember, not submitted and unanswered questions won't count. Your score will be calculated based on both
 A1-0009|accuracy and speed.Given your expertise in sales and marketing, I'm confident that this quiz will be a|accuracy and speed.Given your expertise in sales and marketing, I'm confident that this quiz will be a
-A1-0010|ake-walk for you - or should I say, a car-walk!We will be displaying a live leader board|ake-walk for you - or should I say, a car-walk!We will be displaying a live leader board
+A1-0010|cake-walk for you - or should I say, a car-walk!We will be displaying a live leader board|ake-walk for you - or should I say, a car-walk!We will be displaying a live leader board
 A1-0011|to make this competition more interesting. So, let’s begin! Your first question is,In which year|to make this competition more interesting. So, let’s begin! Your first question is,In which year
 A1-0012|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'? I repeat. In which year|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'? I repeat. In which year
 A1-0013|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'?Your options are: a.|did Maruti Suzuki launch the Premium Retail Sales Channel 'NEXA'?Your options are: a.
