@@ -222,6 +222,20 @@ def ljspeech_test(root_path, meta_file, **kwargs):  # pylint: disable=unused-arg
             )
     return items
 
+def dave(root_path, manifest_file, **kwargs):  # pylint: disable=unused-argument
+    """Assumes each line as ```<filename>|<transcription>```
+    """
+    txt_file = os.path.join(root_path, manifest_file)
+    items = []
+    speaker_name = "my_speaker"
+    with open(txt_file, "r", encoding="utf-8") as ttf:
+        for line in ttf:
+            cols = line.split("|")
+            wav_file = os.path.join(root_path, "wavs", cols[0])
+            text = cols[1]
+            items.append({"text":text, "audio_file":wav_file, "speaker_name":speaker_name, "root_path": root_path})
+    return items
+
 
 def thorsten(root_path, meta_file, **kwargs):  # pylint: disable=unused-argument
     """Normalizes the thorsten meta data file to TTS format
