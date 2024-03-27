@@ -222,7 +222,7 @@ def ljspeech_test(root_path, meta_file, **kwargs):  # pylint: disable=unused-arg
             )
     return items
 
-def dave(root_path, manifest_file, **kwargs):  # pylint: disable=unused-argument
+def A1data(root_path, manifest_file, **kwargs):  # pylint: disable=unused-argument
     """Assumes each line as ```<filename>|<transcription>```
     """
     txt_file = os.path.join(root_path, manifest_file)
